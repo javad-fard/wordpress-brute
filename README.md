@@ -1,4 +1,4 @@
-Wordpress-BruteForce tool :/
+Wordpress-BruteForce tool :
 it’s a tool that can help you bruteforce any wordpress login accounts, using dictionary attack.
 
 
