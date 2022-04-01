@@ -1,5 +1,7 @@
-[wordpress.pdf]
-this is a guidance about this tool
+Wordpress-BruteForce tool :
+it’s a tool that can help you bruteforce any wordpress login accounts, using dictionary attack.
+>> python3 wordpress-brute.py
+Insert wordpress login page the import user name list and password list.
 
-(https://github.com/javad-fard/wordpress-brute/files/8361033/wordpress.pdf)
+
 # wordpress-brute
